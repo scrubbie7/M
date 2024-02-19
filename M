@@ -6,10 +6,10 @@
   "cover": "https://cdn.imgchest.com/files/j7mmcjraav7.png",
   "chapters": {
     "1": {
-      "title": "tesing",
+      "title": "M",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/imgchest/chapter/qe4gdn59k4j/"
+        "<group name>": "/proxy/api/imgchest/chapter/m9yxk6n5q7q/"
   },
       "last_updated": "1616368746"
                                  },
