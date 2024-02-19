@@ -3,7 +3,7 @@
   "description": "no",
   "artist": "no",
   "author": "no",
-  "cover": "https://cdn.imgchest.com/files/j7kzc29aw57.png",
+  "cover": "https://cdn.imgchest.com/files/j7mmcjraav7.png",
   "chapters": {
     "1": {
       "title": "tesing",
@@ -14,10 +14,10 @@
       "last_updated": "1616368746"
                                  },
     "2": {
-      "title": "Circle",
+      "title": "w of silim",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/imgchest/chapter/md7og2v6lyp/"
+        "<group name>": "/proxy/api/imgchest/chapter/bp45xwgkn75/"
   },
       "last_updated": "1616368746"
                                  },
