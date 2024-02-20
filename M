@@ -22,10 +22,10 @@
       "last_updated": "1616368746"
                                  },
     "3": {
-      "title": "throne of innonence_blue",
+      "title": "meed you, noona",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/imgchest/chapter/5xy2prvv97l/"
+        "<group name>": "/proxy/api/imgchest/chapter/ne7bweedg75/"
   },
       "last_updated": "1616368746"
                                  },
