@@ -30,10 +30,10 @@
       "last_updated": "1616368746"
                                  },
     "3.1": {
-      "title": "throne of innonence_red",
+      "title": "beach goddess",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/imgchest/chapter/wl7lxnjpq7x/"
+        "<group name>": "/proxy/api/imgchest/chapter/vj4jdxr2548/"
   },
       "last_updated": "1616368746"
                                  }
