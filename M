@@ -60,6 +60,15 @@
         "<group name>": "/proxy/api/imgchest/chapter/5xy2pwkxn7l/"
   },
       "last_updated": "1616368746"
+                                 },
+    "8": {
+      "title": "tofu beauty",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/xny8zpz9dyb/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
+
