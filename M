@@ -68,7 +68,16 @@
         "<group name>": "/proxy/api/imgchest/chapter/xny8zpz9dyb/"
   },
       "last_updated": "1616368746"
+                                 },
+    "9": {
+      "title": "happy campus",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/6eyr2gxok7p/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
+
 
