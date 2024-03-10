@@ -76,6 +76,14 @@
         "<group name>": "/proxy/api/imgchest/chapter/6eyr2gxok7p/"
   },
       "last_updated": "1616368746"
+                                 },
+    "10": {
+      "title": "Mr husband_red",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/md7ollkg97p/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
