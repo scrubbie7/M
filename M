@@ -89,7 +89,7 @@
       "title": "that man's blue_mole/blue",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/imgchest/chapter/6eyr22bxk7p/"
+        "<group name>": "/proxy/api/imgchest/chapter/ne7bppo9m45/"
   },
       "last_updated": "1616368746"
                                  }
