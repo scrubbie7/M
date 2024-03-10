@@ -84,6 +84,14 @@
         "<group name>": "/proxy/api/imgchest/chapter/md7ollkg97p/"
   },
       "last_updated": "1616368746"
+                                 },
+    "11": {
+      "title": "that man's blue_mole/blue",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/6eyr22bxk7p/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
