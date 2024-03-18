@@ -92,6 +92,14 @@
         "<group name>": "/proxy/api/imgchest/chapter/ne7bppo9m45/"
   },
       "last_updated": "1616368746"
+                                 },
+    "12": {
+      "title": "Hyeonjung’s Residence",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/6eyr22bxk7p/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
