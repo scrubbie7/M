@@ -100,8 +100,17 @@
         "<group name>": "/proxy/api/imgchest/chapter/6eyr22bxk7p/"
   },
       "last_updated": "1616368746"
+                                 },
+    "1.1": {
+      "title": "Real",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/md7olqb2d7p/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
+
 
 
