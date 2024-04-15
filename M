@@ -113,7 +113,7 @@
       "title": "lucky guy",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/imgchest/chapter/bp458nd6245/"
+        "<group name>": "/proxy/api/imgchest/chapter/wl7lk6m5p4x/"
   },
       "last_updated": "1616368746"
                                  }
