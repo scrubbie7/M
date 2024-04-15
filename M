@@ -108,6 +108,14 @@
         "<group name>": "/proxy/api/imgchest/chapter/md7olqb2d7p/"
   },
       "last_updated": "1616368746"
+                                 },
+    "13": {
+      "title": "lucky guy",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/bp458nd6245/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
