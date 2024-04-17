@@ -124,9 +124,18 @@
         "<group name>": "/proxy/api/imgchest/chapter/m9yxvq9j64q/"
   },
       "last_updated": "1616368746"
+                                 },
+    "6.1": {
+      "title": "[m]eunhye's market_blk",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/n87wvjq3z4x/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
+
 
 
 
