@@ -156,6 +156,14 @@
         "<group name>": "/proxy/api/imgchest/chapter/md7og2v6lyp/"
   },
       "last_updated": "1616368746"
+                                 },
+    "17": {
+      "title": "[m]boarding diary_red",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/m9yxgknkm4q/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
