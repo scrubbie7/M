@@ -188,6 +188,14 @@
         "<group name>": "/proxy/api/imgchest/chapter/vj4jwdnde78/"
   },
       "last_updated": "1616368746"
+                                 },
+    "21": {
+      "title": "[m]godness hunting",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/5xy2lpnln4l/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
