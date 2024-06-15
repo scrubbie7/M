@@ -236,6 +236,14 @@
         "<group name>": "/proxy/api/imgchest/chapter/wl7lxnjpq7x/"
   },
       "last_updated": "1616368746"
+                                 },
+    "25": {
+      "title": "[m]night with s",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/ej7m2kp2qyd/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
