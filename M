@@ -244,6 +244,14 @@
         "<group name>": "/proxy/api/imgchest/chapter/ej7m2kp2qyd/"
   },
       "last_updated": "1616368746"
+                                 },
+    "26": {
+      "title": "[m]tonight my dinner_red",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/o24ak3bm27l/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
