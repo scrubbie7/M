@@ -252,8 +252,39 @@
         "<group name>": "/proxy/api/imgchest/chapter/o24ak3bm27l/"
   },
       "last_updated": "1616368746"
+                                 },
+    "27": {
+      "title": "[m] intern-haenyeo_glasses",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/5xy2lkabj4l/"
+  },
+      "last_updated": "1616368746"
+                                 },
+    "27.1": {
+      "title": "[m] intern-haenyeo_blue",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/9rydpkm6wyk/"
+  },
+      "last_updated": "1616368746"
+                                 },
+    "27.2": {
+      "title": "[s] intern-haenyeo_blk",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/ne7bxadljy5/"
+  },
+      "last_updated": "1616368746"
+                                 },
+    "27.3": {
+      "title": "[s] intern-haenyeo_orange +bun",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/9rydpkmqlyk/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
-
 
