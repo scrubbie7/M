@@ -292,7 +292,16 @@
         "<group name>": "/proxy/api/imgchest/chapter/md7oxzeb27p/"
   },
       "last_updated": "1616368746"
+                                 },
+    "28.1": {
+      "title": "[m] maiden in law_pierce",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/vj4jvoq6948/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
+
 
