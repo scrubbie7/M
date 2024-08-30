@@ -284,6 +284,14 @@
         "<group name>": "/proxy/api/imgchest/chapter/9rydpkmqlyk/"
   },
       "last_updated": "1616368746"
+                                 },
+    "28": {
+      "title": "[m] maiden in law_blue",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/md7oxzeb27p/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
