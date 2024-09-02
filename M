@@ -300,6 +300,14 @@
         "<group name>": "/proxy/api/imgchest/chapter/vj4jvoq6948/"
   },
       "last_updated": "1616368746"
+                                 },
+    "29": {
+      "title": "[m] silent war _blue",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/lqye6jkxm4d/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
