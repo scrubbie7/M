@@ -308,6 +308,14 @@
         "<group name>": "/proxy/api/imgchest/chapter/lqye6jkxm4d/"
   },
       "last_updated": "1616368746"
+                                 },
+    "30": {
+      "title": "[m] greed game",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/9p4nxg5bz7n/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
