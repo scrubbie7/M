@@ -324,9 +324,18 @@
         "<group name>": "/proxy/api/imgchest/chapter/a846kxnzoyx/"
   },
       "last_updated": "1616368746"
+                                 },
+    "32": {
+      "title": "[m] selffishness_m+red",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/6eyr899z67p/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
+
 
 
 
