@@ -332,6 +332,14 @@
         "<group name>": "/proxy/api/imgchest/chapter/6eyr899z67p/"
   },
       "last_updated": "1616368746"
+                                 },
+    "33": {
+      "title": "[m] revenge_red",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/vj4jvgl9548/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
