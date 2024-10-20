@@ -372,6 +372,22 @@
         "<group name>": "/proxy/api/imgchest/chapter/agyvwpm5z48/"
   },
       "last_updated": "1616368746"
+                                 },
+    "35.1": {
+      "title": "[m]super acc. [long/short]",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/ljyqz3gxny2/"
+  },
+      "last_updated": "1616368746"
+                                 },
+    "35.2": {
+      "title": "[m] super acc_brown",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/md7oxrzqr7p/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
