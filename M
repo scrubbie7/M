@@ -388,6 +388,14 @@
         "<group name>": "/proxy/api/imgchest/chapter/md7oxrzqr7p/"
   },
       "last_updated": "1616368746"
+                                 },
+    "35.3": {
+      "title": "[m] super acc_glasses",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/bp45zbk3245/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
