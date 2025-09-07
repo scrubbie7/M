@@ -396,6 +396,14 @@
         "<group name>": "/proxy/api/imgchest/chapter/bp45zbk3245/"
   },
       "last_updated": "1616368746"
+                                 },
+    "36": {
+      "title": "[m] locked up",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/ne7bq396j75/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
