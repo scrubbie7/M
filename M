@@ -436,10 +436,16 @@
         "<group name>": "/proxy/api/imgchest/chapter/md7oj2o89yp/"
   },
       "last_updated": "1616368746"
+                                 },
+    "38": {
+      "title": "[m] beautiful day",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/dl7pn6orpyo/"
+  },
+      "last_updated": "1616368746"
                                  }
      }
     }
-
-
 
 
